@@ -10,4 +10,4 @@ This is my first GitHub learning project! 🚀
 
 - Build useful projects
 - Explore new technologies
-- Become a better developer
+- Become  better developer
