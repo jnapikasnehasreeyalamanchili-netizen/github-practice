@@ -5,7 +5,7 @@
 - Adding and editing files
 - Tracking project changes
 
-This is my first GitHub practice project! 🚀
+This is my first GitHub learning project! 🚀
 ## My Goals
 
 - Build useful projects
