@@ -10,5 +10,9 @@ This is my first GitHub learning project! 🚀
 
 - Build useful projects
 - Explore new technologies
-- Become  better developer
+- Become  better develope
+mission 13:i am learning github merge conflicts
+mission 13:i am learning to resolve conflicts!
+
 mission 13:i am practicing github branches!
+
