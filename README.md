@@ -12,3 +12,4 @@ This is my first GitHub learning project! 🚀
 - Explore new technologies
 - Become  better developer
 mission 13:i am learning github merge conflicts
+mission 13:i am learning to resolve conflicts!
